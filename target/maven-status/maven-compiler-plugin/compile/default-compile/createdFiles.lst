@@ -1,0 +1,14 @@
+tp\banque\defitech\gl3\s5\projet\controllers\PersonneController.class
+tp\banque\defitech\gl3\s5\projet\entities\CompteEpargne.class
+tp\banque\defitech\gl3\s5\projet\entities\Retrait.class
+tp\banque\defitech\gl3\s5\projet\entities\Employe.class
+tp\banque\defitech\gl3\s5\projet\repositories\PersonneRepository.class
+tp\banque\defitech\gl3\s5\projet\entities\Depot.class
+tp\banque\defitech\gl3\s5\projet\entities\Compte.class
+tp\banque\defitech\gl3\s5\projet\entities\Personne.class
+tp\banque\defitech\gl3\s5\projet\entities\Operation.class
+tp\banque\defitech\gl3\s5\projet\entities\CompteCourant.class
+tp\banque\defitech\gl3\s5\projet\ProjetApplication.class
+tp\banque\defitech\gl3\s5\projet\controllers\CompteController.class
+tp\banque\defitech\gl3\s5\projet\repositories\CompteRepository.class
+tp\banque\defitech\gl3\s5\projet\entities\Client.class

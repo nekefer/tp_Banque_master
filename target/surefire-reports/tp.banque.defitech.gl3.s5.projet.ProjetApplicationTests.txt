@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: tp.banque.defitech.gl3.s5.projet.ProjetApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 85.124 s - in tp.banque.defitech.gl3.s5.projet.ProjetApplicationTests
